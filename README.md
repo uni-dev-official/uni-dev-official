@@ -8,7 +8,7 @@ AACSIN
 
 I'm a software developer and cybersecurity enthusiast who enjoys **building things, breaking things, and learning how they work**.
 
-I started coding at a young age and have explored everything from Python and web development to Linux, cybersecurity, and desktop applications. Currently, I'm focused on becoming a stronger **Software Engineer & Cybersecurity professional** while building projects that solve real problems.
+I have explored everything from Python and web development to Linux, cybersecurity, and desktop applications. Currently, I'm focused on becoming a stronger **Software Engineer & Cybersecurity professional** while building projects that solve real problems.
 
 ---
 
@@ -20,7 +20,7 @@ I started coding at a young age and have explored everything from Python and web
 
 ### Development
 
-`React` `Tauri` `Django` `Telegram Bots` `Jetpack Compose`
+`React` `Tauri` `Django` `Aiogram` `Jetpack Compose` 
 
 ### Cybersecurity
 
@@ -91,4 +91,4 @@ If you're interested in software engineering, cybersecurity, open source, startu
 Student → Developer → Builder → Teacher → Traveler
 ```
 
-### 🌎 Keep learning. Keep building. Keep moving.
+### 🌎 Curiously Fascinated
